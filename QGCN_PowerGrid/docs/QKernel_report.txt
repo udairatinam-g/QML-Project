@@ -1,0 +1,3 @@
+Quantum kernel classification (CV)
+Entangled kernel mean accuracy: 0.562 (std 0.272)
+Separable kernel mean accuracy: 0.562 (std 0.272)
